@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Grape7997
 - 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on discord username is ._fps_.
-- 😄 Pronouns: Pikachu
-- ⚡ Fun fact: I can type 120wpm
+- 🌱 I’m currently learning python and hacking
+- 📫 Discord : hackerghost_.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Trying to hack u right now
 
 <!---
 Grape7997/Grape7997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
